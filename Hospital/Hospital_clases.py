@@ -20,7 +20,7 @@ class Doctor(Persona, Profesional):
             print("Usted tiene: {}".format(enfermedad))
             enfermo = Enfermos( enfermedad,enfermo.nombre)
             habitaciones.append(enfermo.nombre)
-            return consulta.keys()
+
         else:
             print("Usted no está enfermo")
 
