@@ -1,6 +1,4 @@
 import Hospital_clases as H
-
-
 class Hospital:
     enfermedades = ["Gripe", "Brazo Roto", "Covid-19", "Dolor de cabeza"]
 
