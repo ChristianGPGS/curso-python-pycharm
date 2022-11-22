@@ -4,7 +4,7 @@ import persona as p
 from temperature_exception import toocold_exception, toohot_exception
 
 
-class Bar():
+class Bar:
     cliente1 = p.Cliente("Cliente1", "Cliente1")
 
     camarero1 = p.Camarero("Camarero1", "Camarero1")
