@@ -1,0 +1,21 @@
+temperatureException --> exception
+toocoldException --> temperatureException
+toohotException --> temperatureException
+
+taza_cafe
+                temperature
+                tipo_cafe
+
+cliente
+            nombre
+            tomar_taza_cafe(taza_cafe)
+                                    si la temperatura es mayor de 80 se throwea la exception y protesta porque el cafe esta mas caliente que el cocido de tu abuela
+                                    si la temperatura es menor de 20 se throwea la exception y protesta porque el cafe esta helao
+
+Camarero
+	nombre
+	servirTazaCafe() --> crear el objeto TazaCafe, temperaturaaleatoria (0-100)
+
+Bar
+	Camarero --> servirTazaCafe
+	Cliente --> tomarTazaCafe
