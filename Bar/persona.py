@@ -32,5 +32,5 @@ class Camarero(Persona):
         if tipo_cafe not in tipos_de_cafe:
             self.servir_taza_cafe()
         else:
-            taza_cafe = tc.Taza_cafe(random.randint(0, 100), tipo_cafe)
+            taza_cafe = tc.Taza_cafe(random.randrange(101), tipo_cafe)
             return taza_cafe

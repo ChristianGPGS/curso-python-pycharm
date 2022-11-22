@@ -59,3 +59,5 @@
 09:13:21 AM: INFO [logging_bar.py:19] ('name:', 'utils.logging_bar')
 09:16:23 AM: INFO [logging_bar.py:19] ('name:', 'utils.logging_bar')
 09:19:22 AM: INFO [logging_bar.py:19] ('name:', 'utils.logging_bar')
+09:25:43 AM: INFO [logging_bar.py:19] ('name:', 'utils.logging_bar')
+09:25:45 AM: INFO [logging_bar.py:19] ('El cafe esta perfecto, su temperatura es de 24',)
