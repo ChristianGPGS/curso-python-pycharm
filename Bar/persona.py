@@ -19,18 +19,11 @@ class Cliente(Persona):
             raise toohot_exception('El cafe está muy caliente, su temperatura es de {}'.format(temperatura))
         elif temperatura <= 20:
             raise toocold_exception('El cafe esta demasiado frio, su temperatura es de {}'.format(temperatura))
-        else:
-            log.info("El cafe esta perfecto, su temperatura es de {}".format(temperatura))
 
 
 class Camarero(Persona):
 
     def servir_taza_cafe(self):
-        tipos_de_cafe = ["tipo1", "tipo2", "tipo3", "tipo4"]
-
-        tipo_cafe = input("Buenas tardes, que tipo de cafe quiere? {}".format(tipos_de_cafe))
-        if tipo_cafe not in tipos_de_cafe:
-            self.servir_taza_cafe()
-        else:
-            taza_cafe = tc.Taza_cafe(random.randrange(101), tipo_cafe)
-            return taza_cafe
+        tipo_cafe = input("Buenas tardes, que tipo de cafe quiere?")
+        taza_cafe = tc.Taza_cafe(random.randrange(101), tipo_cafe)
+        return taza_cafe
