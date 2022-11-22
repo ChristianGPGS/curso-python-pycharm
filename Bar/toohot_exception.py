@@ -1,2 +1,0 @@
-import temperature_exception
-cl
