@@ -192,3 +192,126 @@
 07:57:55 AM: INFO [logging_orquesta.py:19] ('Aporreo como un makako',)
 07:58:08 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
 07:58:08 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:11:45 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:11:45 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:11:45 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:11:45 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:11:45 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:11:45 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:11:45 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:11:45 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+08:11:45 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:13:24 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:13:24 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:13:24 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:13:24 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:13:24 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:13:24 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:13:24 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:13:24 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+08:13:24 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:14:02 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:14:02 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:14:02 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:14:02 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:14:02 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:14:02 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:14:02 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:14:02 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+08:14:02 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:14:09 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:14:09 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:14:09 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:14:09 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:14:09 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:14:09 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:14:09 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:14:09 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+08:14:09 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:15:03 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:15:03 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:15:03 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:15:03 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:15:03 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:15:03 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:15:03 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:15:03 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+08:15:03 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:15:26 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:15:26 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:16:33 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:16:33 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:16:44 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:16:44 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:17:48 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:17:48 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:17:48 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:17:48 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:17:48 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:17:48 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:17:48 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:17:48 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+08:17:48 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:18:24 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:18:24 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:18:24 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:18:24 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:18:24 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:18:24 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:18:24 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:18:24 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+08:18:24 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:19:08 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:19:08 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:19:08 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:19:08 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:19:08 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:19:08 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:19:08 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:19:08 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+08:19:08 AM: INFO [logging_orquesta.py:19] ('Aporreo como un makako',)
+08:20:51 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:20:51 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:21:15 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:21:15 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:21:15 AM: INFO [logging_orquesta.py:19] ('Tocamos el instrumento guitarra1',)
+08:21:15 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:21:15 AM: INFO [logging_orquesta.py:19] ('Tocamos el instrumento Guitarra_Electrica',)
+08:21:15 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:21:15 AM: INFO [logging_orquesta.py:19] ('Tocamos el instrumento piano',)
+08:21:15 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+08:21:15 AM: INFO [logging_orquesta.py:19] ('Aporreo como un makako',)
+08:22:39 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:22:39 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:22:39 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:22:39 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:22:39 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:22:39 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:22:39 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:22:39 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+08:22:39 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+08:24:08 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:24:08 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:24:51 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:24:51 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:25:14 AM: INFO [logging_orquesta.py:19] ('Tocamos el instrumento guitarra1',)
+08:25:18 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:25:52 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:25:52 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:26:01 AM: DEBUG [logging_orquesta.py:15] No afinado
+08:26:12 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: name 'No_Afinado_Exception' is not defined , <class 'NameError'>",)
+08:26:15 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:26:47 AM: DEBUG [logging_orquesta.py:15] No afinado
+08:26:49 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: name 'No_Afinado_Exception' is not defined , <class 'NameError'>",)
+08:26:51 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+08:27:04 AM: DEBUG [logging_orquesta.py:15] No afinado
+08:28:13 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:28:13 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:28:29 AM: DEBUG [logging_orquesta.py:15] No afinado
+08:29:15 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:29:15 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+08:29:22 AM: DEBUG [logging_orquesta.py:15] No afinado
+08:29:29 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: name 'No_Afinado_Exception' is not defined , <class 'NameError'>",)
+08:29:31 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+08:32:06 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+08:45:12 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')

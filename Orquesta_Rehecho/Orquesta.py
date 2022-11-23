@@ -30,16 +30,3 @@ class Orquesta:
 
     lista_instrumetos = crear_orquesta()
     iniciar_concierto(lista_instrumetos)
-""""    def iniciar_concierto(lista_instrumetos):
-        for instrumento in lista_instrumetos:
-            log.debug("El nombre del intrumento es {}".format(instrumento.nombre))
-            try:
-                instrumento.afinar()
-                if instrumento.tipo == "tambor":
-                    instrumento.aporrear()
-                else:
-                    instrumento.tocar_instrumento()
-            except No_Afinado_Exception as a:
-                log.error(a.mensaje)
-            except Exception as e:
-                log.error(f'Exception - Ocurrió un error: {e} , {type(e)}')"""""
