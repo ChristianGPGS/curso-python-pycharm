@@ -37,11 +37,19 @@ try:
         if linea_cortada[0] == "Colegio1":
             if linea_cortada[-1].count(";") > 0:
                 # hacer un split?
+                linea_cortada.append(linea_cortada[-1].split(";"))
+                print(linea_cortada)
                 colegios1.append(linea_cortada)
         elif linea_cortada[0] == "Colegio2":
-            colegios2.append(linea_cortada)
+            if linea_cortada[-1].count(";") > 0:
+                linea_cortada.append(linea_cortada[-1].split(";"))
+                print(linea_cortada)
+                colegios2.append(linea_cortada)
         elif linea_cortada[0] == "Colegio3":
-            colegios3.append(linea_cortada)
+            if linea_cortada[-1].count(";") > 0:
+                linea_cortada.append(linea_cortada[-1].split(";"))
+                print(linea_cortada)
+                colegios3.append(linea_cortada)
 
     print(colegios1)
     print(colegios2)
