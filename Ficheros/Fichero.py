@@ -31,6 +31,7 @@ try:
         cortadas.append(linea.split("|"))
     archivo.close()
 
+    #reemplazar este for por el de abajo y descomentar las cuentas de arriba
     for linea_cortada in cortadas:
         # print(linea_cortada)
         if linea_cortada[0] == "Colegio1":
