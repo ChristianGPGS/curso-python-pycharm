@@ -1,0 +1,27 @@
+11:27:00 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+11:27:00 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es guitarra1
+11:27:00 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+11:27:00 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
+11:27:00 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+11:27:00 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es piano
+11:27:00 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+11:27:00 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es tambor
+11:27:00 AM: ERROR [logging_orquesta.py:27] ("Exception - Ocurrió un error: 'NoneType' object is not callable , <class 'TypeError'>",)
+11:27:18 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+11:27:18 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+11:27:50 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+11:27:50 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+11:28:02 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+11:28:02 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+11:28:02 AM: INFO [logging_orquesta.py:19] ('Empezando',)
+11:30:49 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+11:30:49 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+11:30:49 AM: INFO [logging_orquesta.py:19] ('Empezando',)
+11:31:29 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+11:31:29 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+11:31:29 AM: INFO [logging_orquesta.py:19] ('Empezando',)
+11:31:29 AM: INFO [logging_orquesta.py:19] ('Iniciando orquesta Orquesta Mondragon',)
+11:33:31 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+11:33:31 AM: INFO [logging_hospital.py:19] ('name:', 'utils.logging_hospital')
+11:33:31 AM: INFO [logging_orquesta.py:19] ('Empezando',)
+11:33:31 AM: INFO [logging_orquesta.py:19] ('Iniciando orquesta Orquesta Mondragon',)
