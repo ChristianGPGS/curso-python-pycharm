@@ -1,6 +1,6 @@
 import utils.logging_orquesta as log
 import Clases as c
-from Excepciones import no_afinar_exception
+from Excepciones import No_Afinado_Exception
 
 class Orquesta:
 
@@ -22,7 +22,7 @@ class Orquesta:
                     instrumento.aporrear()
                 else:
                     instrumento.tocar_instrumento()
-            except no_afinar_exception as a:
+            except No_Afinado_Exception as a:
                 log.error(a.mensaje)
             except Exception as e:
                 log.error(f'Exception - Ocurrió un error: {e} , {type(e)}')
@@ -30,16 +30,3 @@ class Orquesta:
 
     lista_instrumetos = crear_orquesta()
     iniciar_concierto(lista_instrumetos)
-""""    def iniciar_concierto(lista_instrumetos):
-        for instrumento in lista_instrumetos:
-            log.debug("El nombre del intrumento es {}".format(instrumento.nombre))
-            try:
-                instrumento.afinar()
-                if instrumento.tipo == "tambor":
-                    instrumento.aporrear()
-                else:
-                    instrumento.tocar_instrumento()
-            except No_Afinado_Exception as a:
-                log.error(a.mensaje)
-            except Exception as e:
-                log.error(f'Exception - Ocurrió un error: {e} , {type(e)}')"""""

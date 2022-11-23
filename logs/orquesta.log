@@ -315,3 +315,4 @@
 08:29:31 AM: DEBUG [logging_orquesta.py:15] El nombre del intrumento es Guitarra_Electrica
 08:32:06 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
 08:45:12 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
+10:29:42 AM: INFO [logging_orquesta.py:19] ('name:', 'utils.logging_orquesta')
