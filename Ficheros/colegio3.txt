@@ -1,1 +1,1 @@
-('Colegio3', 'Nombre3', 'Apellidos3', '3333C', 'Historia;Lengua\n')('Colegio3', 'Nombre7', 'Apellidos7', '7777G', 'Gimnasia\n')('Colegio3', 'Nombre10', 'Apellidos10', '1010J', 'Geografís;Historia\n')
+('Colegio3', 'Nombre3', 'Apellidos3', '3333C', ['Historia', 'Lengua\n'])('Colegio3', 'Nombre7', 'Apellidos7', '7777G', ['Gimnasia\n'])('Colegio3', 'Nombre10', 'Apellidos10', '1010J', ['Geografís', 'Historia\n'])
