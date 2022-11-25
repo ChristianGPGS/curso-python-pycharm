@@ -1,0 +1,362 @@
+11:08:43 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:08:43 AM: DEBUG [cargar_tablas.py:7] Empezamos a leer el archivo 'Apostantes.txt'
+11:08:43 AM: DEBUG [cargar_tablas.py:11] APOSTANTE1|5000
+
+11:08:43 AM: DEBUG [cargar_tablas.py:13] ['APOSTANTE1', '5000\n']
+11:08:43 AM: DEBUG [cargar_tablas.py:11] APOSTANTE2|3000
+
+11:08:43 AM: DEBUG [cargar_tablas.py:13] ['APOSTANTE2', '3000\n']
+11:08:43 AM: DEBUG [cargar_tablas.py:11] APOSTANTE3|1000
+11:08:43 AM: DEBUG [cargar_tablas.py:13] ['APOSTANTE3', '1000']
+11:09:18 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:09:18 AM: DEBUG [cargar_tablas.py:7] Empezamos a leer el archivo 'Apostantes.txt'
+11:09:18 AM: DEBUG [cargar_tablas.py:13] ['APOSTANTE1', '5000\n']
+11:09:18 AM: DEBUG [cargar_tablas.py:13] ['APOSTANTE2', '3000\n']
+11:09:18 AM: DEBUG [cargar_tablas.py:13] ['APOSTANTE3', '1000']
+11:12:22 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:12:22 AM: DEBUG [cargar_tablas.py:11] Empezamos a leer el archivo 'Apostantes.txt'
+11:12:22 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:12:39 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:12:39 AM: DEBUG [cargar_tablas.py:11] Empezamos a leer el archivo 'Apostantes.txt'
+11:12:39 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:12:39 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE2', '3000\n']
+11:12:39 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE3', '1000']
+11:13:14 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:13:14 AM: DEBUG [cargar_tablas.py:11] Empezamos a leer el archivo 'Apostantes.txt'
+11:13:14 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:13:14 AM: DEBUG [cargar_tablas.py:20] 5000
+
+11:13:14 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE2', '3000\n']
+11:13:14 AM: DEBUG [cargar_tablas.py:20] 3000
+
+11:13:14 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE3', '1000']
+11:13:14 AM: DEBUG [cargar_tablas.py:20] 1000
+11:13:49 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:13:49 AM: DEBUG [cargar_tablas.py:11] Empezamos a leer el archivo 'Apostantes.txt'
+11:13:49 AM: DEBUG [cargar_tablas.py:16] ['APOSTANTE1', '5000\n']
+11:14:15 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:14:15 AM: DEBUG [cargar_tablas.py:11] Empezamos a leer el archivo 'Apostantes.txt'
+11:14:15 AM: DEBUG [cargar_tablas.py:16] ['APOSTANTE1', '5000\n']
+11:14:22 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:14:22 AM: DEBUG [cargar_tablas.py:11] Empezamos a leer el archivo 'Apostantes.txt'
+11:14:22 AM: DEBUG [cargar_tablas.py:16] ['APOSTANTE1', '5000\n']
+11:14:22 AM: DEBUG [cargar_tablas.py:19] APOSTANTE1
+11:14:22 AM: DEBUG [cargar_tablas.py:16] ['APOSTANTE2', '3000\n']
+11:14:22 AM: DEBUG [cargar_tablas.py:19] APOSTANTE2
+11:14:22 AM: DEBUG [cargar_tablas.py:16] ['APOSTANTE3', '1000']
+11:14:22 AM: DEBUG [cargar_tablas.py:19] APOSTANTE3
+11:22:46 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:22:46 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:22:46 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:24:20 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:24:20 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:24:20 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:25:20 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:25:20 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:25:20 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:25:23 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:25:23 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:25:23 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:26:34 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:26:34 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:26:34 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:27:00 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:27:00 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:27:00 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:31:09 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:31:09 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:31:09 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:31:35 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:31:35 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:31:35 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:32:38 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:32:38 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:32:38 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:33:45 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:33:45 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:33:45 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:36:05 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:36:05 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:36:05 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:38:33 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:38:33 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:38:33 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:38:42 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:38:42 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:38:42 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:40:29 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:40:29 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:40:29 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:55:43 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:55:43 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:55:43 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:56:08 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:56:08 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:56:08 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+11:57:05 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+11:57:05 AM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+11:57:22 AM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+12:03:10 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:03:10 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:03:10 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+12:04:11 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:04:11 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:04:11 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+12:04:11 PM: DEBUG [Tabla_Apostantes.py:32] apostante insertado: APOSTANTE1
+12:04:11 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE2', '3000\n']
+12:04:11 PM: DEBUG [Tabla_Apostantes.py:32] apostante insertado: APOSTANTE2
+12:04:11 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE3', '1000']
+12:04:11 PM: DEBUG [Tabla_Apostantes.py:32] apostante insertado: APOSTANTE3
+12:06:35 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:06:35 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:06:35 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+12:08:20 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:08:20 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:08:20 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+12:08:20 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE1
+12:08:20 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE2', '3000\n']
+12:08:20 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE2
+12:08:20 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE3', '1000']
+12:08:20 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE3
+12:08:50 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:08:50 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:08:50 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+12:08:50 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE1
+12:10:53 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:10:53 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:10:53 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE1', '5000\n']
+12:10:53 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE1
+12:10:53 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE2', '3000\n']
+12:10:53 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE2
+12:10:53 PM: DEBUG [cargar_tablas.py:17] ['APOSTANTE3', '1000']
+12:10:53 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE3
+12:13:46 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:13:46 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:14:33 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:14:33 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:14:42 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:14:42 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:14:49 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:14:49 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:15:55 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:15:55 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:15:55 PM: DEBUG [cargar_tablas.py:20] [<Carrera_Caballos.POJO.Apostantes.Apostantes object at 0x0000023BC6C888D0>, <Carrera_Caballos.POJO.Apostantes.Apostantes object at 0x0000023BC6C88850>, <Carrera_Caballos.POJO.Apostantes.Apostantes object at 0x0000023BC6C88A50>]
+12:15:55 PM: DEBUG [cargar_tablas.py:20] [<Carrera_Caballos.POJO.Apostantes.Apostantes object at 0x0000023BC6C882D0>, <Carrera_Caballos.POJO.Apostantes.Apostantes object at 0x0000023BC6C88A50>, <Carrera_Caballos.POJO.Apostantes.Apostantes object at 0x0000023BC6C88910>]
+12:15:55 PM: DEBUG [cargar_tablas.py:20] [<Carrera_Caballos.POJO.Apostantes.Apostantes object at 0x0000023BC6C88910>, <Carrera_Caballos.POJO.Apostantes.Apostantes object at 0x0000023BC6C88850>, <Carrera_Caballos.POJO.Apostantes.Apostantes object at 0x0000023BC6C88A10>]
+12:16:43 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:16:43 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:16:53 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:16:53 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:17:47 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:17:47 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:17:47 PM: DEBUG [cargar_tablas.py:20] [(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)]
+12:17:47 PM: DEBUG [cargar_tablas.py:20] [(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)]
+12:17:47 PM: DEBUG [cargar_tablas.py:20] [(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)]
+12:18:07 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:18:07 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:18:11 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:18:11 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:18:11 PM: DEBUG [cargar_tablas.py:20] [(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)]
+12:18:11 PM: DEBUG [cargar_tablas.py:20] [(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)]
+12:18:11 PM: DEBUG [cargar_tablas.py:20] [(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)]
+12:18:58 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:18:58 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:18:58 PM: DEBUG [cargar_tablas.py:20] ([(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)], '\n')
+12:18:58 PM: DEBUG [cargar_tablas.py:20] ([(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)], '\n')
+12:18:58 PM: DEBUG [cargar_tablas.py:20] ([(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)], '\n')
+12:19:10 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:19:10 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:19:10 PM: DEBUG [cargar_tablas.py:20] (10, 'APOSTANTE1', 5000)
+12:19:10 PM: DEBUG [cargar_tablas.py:20] (10, 'APOSTANTE1', 5000)
+12:19:10 PM: DEBUG [cargar_tablas.py:20] (10, 'APOSTANTE1', 5000)
+12:19:20 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:19:20 PM: DEBUG [cargar_tablas.py:12] Empezamos a leer el archivo 'Apostantes.txt'
+12:19:20 PM: DEBUG [cargar_tablas.py:20] [(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)]
+12:19:20 PM: DEBUG [cargar_tablas.py:20] [(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)]
+12:19:20 PM: DEBUG [cargar_tablas.py:20] [(10, 'APOSTANTE1', 5000), (11, 'APOSTANTE2', 3000), (12, 'APOSTANTE3', 1000)]
+12:30:15 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:30:15 PM: DEBUG [cargar_tablas.py:21] Empezamos a leer el archivo 'Apostantes.txt'
+12:30:15 PM: DEBUG [cargar_tablas.py:30] Empezamos a leer el archivo 'Caballos.txt'
+12:30:48 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:30:48 PM: DEBUG [cargar_tablas.py:21] Empezamos a leer el archivo 'Apostantes.txt'
+12:30:48 PM: DEBUG [cargar_tablas.py:30] Empezamos a leer el archivo 'Caballos.txt'
+12:32:21 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:32:21 PM: DEBUG [cargar_tablas.py:21] Empezamos a leer el archivo 'Apostantes.txt'
+12:32:21 PM: DEBUG [cargar_tablas.py:30] Empezamos a leer el archivo 'Caballos.txt'
+12:32:24 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:32:24 PM: DEBUG [cargar_tablas.py:21] Empezamos a leer el archivo 'Apostantes.txt'
+12:32:24 PM: DEBUG [cargar_tablas.py:30] Empezamos a leer el archivo 'Caballos.txt'
+12:39:46 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:39:46 PM: DEBUG [cargar_tablas.py:31] Empezamos a leer el archivo 'Apostantes.txt'
+12:39:46 PM: DEBUG [cargar_tablas.py:39] Empezamos a leer el archivo 'Gran_Premio.txt'
+12:40:27 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:40:27 PM: DEBUG [cargar_tablas.py:31] Empezamos a leer el archivo 'Apostantes.txt'
+12:40:27 PM: DEBUG [cargar_tablas.py:39] Empezamos a leer el archivo 'Gran_Premio.txt'
+12:41:10 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:41:10 PM: DEBUG [cargar_tablas.py:31] Empezamos a leer el archivo 'Apostantes.txt'
+12:41:10 PM: DEBUG [cargar_tablas.py:39] Empezamos a leer el archivo 'Gran_Premio.txt'
+12:41:10 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+12:41:10 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+12:41:10 PM: DEBUG [cargar_tablas.py:47] Empezamos a leer el archivo 'Caballos.txt'
+12:42:22 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:42:22 PM: DEBUG [cargar_tablas.py:31] Empezamos a leer el archivo 'Apostantes.txt'
+12:42:22 PM: DEBUG [cargar_tablas.py:39] Empezamos a leer el archivo 'Gran_Premio.txt'
+12:42:22 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+12:42:22 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+12:42:22 PM: DEBUG [cargar_tablas.py:47] Empezamos a leer el archivo 'Caballos.txt'
+12:43:19 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:43:19 PM: DEBUG [cargar_tablas.py:31] Empezamos a leer el archivo 'Apostantes.txt'
+12:43:19 PM: DEBUG [cargar_tablas.py:39] Empezamos a leer el archivo 'Gran_Premio.txt'
+12:43:20 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+12:43:20 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+12:43:20 PM: DEBUG [cargar_tablas.py:47] Empezamos a leer el archivo 'Caballos.txt'
+12:43:39 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:43:39 PM: DEBUG [cargar_tablas.py:31] Empezamos a leer el archivo 'Apostantes.txt'
+12:43:39 PM: DEBUG [cargar_tablas.py:39] Empezamos a leer el archivo 'Gran_Premio.txt'
+12:43:39 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+12:43:39 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+12:43:39 PM: DEBUG [cargar_tablas.py:47] Empezamos a leer el archivo 'Caballos.txt'
+12:44:49 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:44:49 PM: DEBUG [cargar_tablas.py:31] Empezamos a leer el archivo 'Apostantes.txt'
+12:44:49 PM: DEBUG [cargar_tablas.py:39] Empezamos a leer el archivo 'Gran_Premio.txt'
+12:44:49 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+12:44:49 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+12:44:49 PM: DEBUG [cargar_tablas.py:47] Empezamos a leer el archivo 'Caballos.txt'
+12:44:49 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO1
+12:44:49 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO2
+12:44:49 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO3
+12:44:49 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO4
+12:44:49 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO5
+12:46:09 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:46:09 PM: DEBUG [cargar_tablas.py:31] Empezamos a leer el archivo 'Apostantes.txt'
+12:46:09 PM: DEBUG [cargar_tablas.py:39] Empezamos a leer el archivo 'Gran_Premio.txt'
+12:46:09 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+12:46:09 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+12:46:09 PM: DEBUG [cargar_tablas.py:47] Empezamos a leer el archivo 'Caballos.txt'
+12:54:47 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+12:54:47 PM: DEBUG [cargar_tablas.py:31] Empezamos a leer el archivo 'Apostantes.txt'
+12:54:47 PM: DEBUG [cargar_tablas.py:39] Empezamos a leer el archivo 'Gran_Premio.txt'
+12:54:47 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+12:54:47 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+12:54:47 PM: DEBUG [cargar_tablas.py:47] Empezamos a leer el archivo 'Caballos.txt'
+01:01:31 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+01:01:31 PM: DEBUG [cargar_tablas.py:30] Empezamos a leer el archivo 'Apostantes.txt'
+01:01:31 PM: DEBUG [cargar_tablas.py:38] Empezamos a leer el archivo 'Gran_Premio.txt'
+01:01:31 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+01:01:31 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+01:01:31 PM: DEBUG [cargar_tablas.py:46] Empezamos a leer el archivo 'Caballos.txt'
+01:41:18 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+01:41:18 PM: DEBUG [cargar_tablas.py:30] Empezamos a leer el archivo 'Apostantes.txt'
+01:41:18 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE1
+01:41:18 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE2
+01:41:18 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE3
+01:41:18 PM: DEBUG [cargar_tablas.py:38] Empezamos a leer el archivo 'Gran_Premio.txt'
+01:41:18 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+01:41:18 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+01:41:18 PM: DEBUG [cargar_tablas.py:46] Empezamos a leer el archivo 'Caballos.txt'
+01:41:18 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO1
+01:41:18 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO2
+01:41:18 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO3
+01:41:18 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO4
+01:41:18 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO5
+01:42:55 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+01:42:55 PM: DEBUG [cargar_tablas.py:30] Empezamos a leer el archivo 'Apostantes.txt'
+01:42:55 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE1
+01:42:55 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE2
+01:42:55 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE3
+01:42:55 PM: DEBUG [cargar_tablas.py:38] Empezamos a leer el archivo 'Gran_Premio.txt'
+01:42:55 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+01:42:55 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+01:42:55 PM: DEBUG [cargar_tablas.py:46] Empezamos a leer el archivo 'Caballos.txt'
+01:42:55 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO1
+01:42:55 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO2
+01:42:55 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO3
+01:44:29 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+01:44:29 PM: DEBUG [cargar_tablas.py:30] Empezamos a leer el archivo 'Apostantes.txt'
+01:44:29 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE1
+01:44:29 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE2
+01:44:29 PM: DEBUG [Tabla_Apostantes.py:31] apostante insertado: APOSTANTE3
+01:44:29 PM: DEBUG [cargar_tablas.py:38] Empezamos a leer el archivo 'Gran_Premio.txt'
+01:44:29 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 1
+01:44:29 PM: DEBUG [Tabla_Gran_Premio.py:31] gran_premio insertado: GRAN PREMIO 2
+01:44:29 PM: DEBUG [cargar_tablas.py:46] Empezamos a leer el archivo 'Caballos.txt'
+01:44:29 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO1
+01:44:29 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO2
+01:44:29 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO3
+01:44:29 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO4
+01:44:29 PM: DEBUG [Tabla_Caballos.py:35] caballo insertado: CABALLO5
+01:54:12 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+01:54:12 PM: DEBUG [Carreras_Caballos.py:5] Empezar Carrera
+01:55:42 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+01:55:42 PM: DEBUG [Carreras_Caballos.py:5] Empezar Carrera
+02:01:44 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:01:44 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:02:09 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:02:09 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:02:09 PM: DEBUG [Carreras_Caballos.py:8] [<Carrera_Caballos.POJO.Gran_Premio.GranPremio object at 0x0000028B0C3CD510>, <Carrera_Caballos.POJO.Gran_Premio.GranPremio object at 0x0000028B0E048450>]
+02:02:44 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:02:44 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:02:44 PM: DEBUG [Carreras_Caballos.py:8] 1
+02:02:58 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:02:58 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:02:58 PM: DEBUG [Carreras_Caballos.py:8] 4
+02:07:01 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:07:01 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:07:15 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:07:15 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:07:15 PM: DEBUG [Carreras_Caballos.py:8] 4
+02:07:21 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:07:21 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:07:21 PM: DEBUG [Carreras_Caballos.py:8] 500
+02:08:48 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:08:48 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:08:48 PM: DEBUG [Carreras_Caballos.py:8] 1
+02:17:18 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:17:18 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:17:18 PM: DEBUG [Carreras_Caballos.py:8] 500
+02:17:36 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:17:36 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:17:36 PM: DEBUG [Carreras_Caballos.py:8] 1
+02:17:45 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:17:45 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:17:45 PM: DEBUG [Carreras_Caballos.py:8] GRAN PREMIO 1
+02:17:53 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:17:53 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:17:53 PM: DEBUG [Carreras_Caballos.py:8] 500
+02:17:59 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:17:59 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:17:59 PM: DEBUG [Carreras_Caballos.py:8] 4
+02:46:52 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:46:52 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:46:52 PM: DEBUG [Carreras_Caballos.py:15] GRAN PREMIO 1
+02:46:52 PM: DEBUG [Carreras_Caballos.py:16] APOSTANTE1
+02:46:52 PM: DEBUG [Carreras_Caballos.py:17] APOSTANTE1
+02:47:22 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:47:22 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:47:38 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:47:38 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:48:45 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:48:45 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:48:45 PM: DEBUG [Carreras_Caballos.py:15] GRAN PREMIO 1
+02:48:45 PM: DEBUG [Carreras_Caballos.py:16] APOSTANTE1
+02:48:45 PM: DEBUG [Carreras_Caballos.py:17] CABALLO1
+02:53:58 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:53:58 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:54:48 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:54:48 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:54:48 PM: DEBUG [Carreras_Caballos.py:18] 0
+02:54:48 PM: DEBUG [Carreras_Caballos.py:18] 1
+02:54:48 PM: DEBUG [Carreras_Caballos.py:18] 2
+02:54:48 PM: DEBUG [Carreras_Caballos.py:18] 3
+02:54:48 PM: DEBUG [Carreras_Caballos.py:18] 0
+02:54:48 PM: DEBUG [Carreras_Caballos.py:18] 1
+02:54:48 PM: DEBUG [Carreras_Caballos.py:18] 2
+02:55:00 PM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+02:55:00 PM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+02:55:00 PM: DEBUG [Carreras_Caballos.py:18] 1
+02:55:00 PM: DEBUG [Carreras_Caballos.py:18] 2
+02:55:00 PM: DEBUG [Carreras_Caballos.py:18] 3
+02:55:00 PM: DEBUG [Carreras_Caballos.py:18] 4
+02:55:00 PM: DEBUG [Carreras_Caballos.py:18] 1
+02:55:00 PM: DEBUG [Carreras_Caballos.py:18] 2
+02:55:00 PM: DEBUG [Carreras_Caballos.py:18] 3
