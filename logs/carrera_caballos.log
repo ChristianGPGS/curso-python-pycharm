@@ -570,3 +570,8 @@
 08:57:51 AM: ERROR [Carreras_Caballos.py:25] No tienes tanto dinero.
 08:57:51 AM: DEBUG [Carreras_Caballos.py:21] Usted es APOSTANTE2 y tiene 3000 $
 08:58:01 AM: INFO [Carreras_Caballos.py:28] 1-CABALLO1-3
+10:01:23 AM: INFO [logging_carrera_caballos.py:19] ('name:', 'utils.logging_carrera_caballos')
+10:01:23 AM: INFO [logging_carrera_caballos_main.py:19] ('name:', 'utils.logging_carrera_caballos_main')
+10:01:23 AM: DEBUG [Carreras_Caballos.py:18] Bienvenidos a la carrera 1!!
+10:01:23 AM: DEBUG [Carreras_Caballos.py:19] La carrera tiene 500 metros de distancia
+10:01:23 AM: DEBUG [Carreras_Caballos.py:21] Usted es APOSTANTE1 y tiene 5000 $

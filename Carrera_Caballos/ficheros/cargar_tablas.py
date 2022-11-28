@@ -1,8 +1,8 @@
 from datetime import datetime
 
-from Carrera_Caballos.DAO.Tabla_Apostantes import ApostantesDao
-from Carrera_Caballos.DAO.Tabla_Caballos import CaballosDao
-from Carrera_Caballos.DAO.Tabla_Gran_Premio import GranPremioDao
+from Carrera_Caballos.DAO.ApostantesDAO import ApostantesDao
+from Carrera_Caballos.DAO.CaballosDAO import CaballosDao
+from Carrera_Caballos.DAO.Gran_PremioDAO import GranPremioDao
 from Carrera_Caballos.POJO.Caballos import Caballos
 from Carrera_Caballos.POJO.Apostantes import Apostantes
 from Carrera_Caballos.POJO.Gran_Premio import GranPremio

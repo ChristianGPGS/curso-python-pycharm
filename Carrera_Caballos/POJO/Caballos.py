@@ -8,6 +8,7 @@ class Caballos:
         self._experiencia = experiencia
         self._valor_apuesta = valor_apuesta
         self._id_gran_premio = id_gran_premio
+        self._distancia_recorrida = 0
 
     def __str__(self):
         return
@@ -67,3 +68,11 @@ class Caballos:
     @id_gran_premio.setter
     def id_gran_premio(self, id_gran_premio):
         self._id_gran_premio = id_gran_premio
+
+    @property
+    def distancia_recorrida(self):
+        return self._distancia_recorrida
+
+    @distancia_recorrida.setter
+    def distancia_recorrida(self, distancia_recorrida):
+        self._distancia_recorrida = distancia_recorrida
