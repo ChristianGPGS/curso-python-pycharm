@@ -19,8 +19,8 @@ class CaballosDao:
                 registros = cursor.fetchall()
                 lista_caballos = []
                 for registro in registros:
-                    caballos = Caballos(registro[1], registro[2], registro[3], registro[4], registro[5], registro[0],
-                                        registro[6])
+                    caballos = Caballos(registro[1], registro[2], registro[3], registro[4], registro[5], registro[6],
+                                        registro[0])
                     lista_caballos.append(caballos)
 
                 return lista_caballos

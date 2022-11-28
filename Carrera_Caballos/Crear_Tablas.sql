@@ -24,5 +24,5 @@ CREATE TABLE `curso_python`.`caballos` (
   CONSTRAINT `ID_gran_premio`
     FOREIGN KEY (`ID_gran_premio`)
     REFERENCES `curso_python`.`gran_premio` (`ID`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION);
+    ON DELETE CASCADE
+    ON UPDATE CASCADE);

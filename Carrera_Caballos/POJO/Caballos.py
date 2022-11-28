@@ -1,6 +1,6 @@
 class Caballos:
-    def __init__(self,  nombre=None, fecha_nacimiento=None, velocidad=None, experiencia=None,
-                 valor_apuesta=None, id_gran_premio=None,id=None):
+    def __init__(self, nombre=None, fecha_nacimiento=None, velocidad=None, experiencia=None,
+                 valor_apuesta=None, id_gran_premio=None, id=None):
         self._id = id
         self._nombre = nombre
         self._fecha_nacimiento = fecha_nacimiento
